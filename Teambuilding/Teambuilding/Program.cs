@@ -7,7 +7,9 @@ namespace Teambuilding
         static void Main(string[] args)
         {
 
-            
+            /*
+             * meer tekst
+             * */
             
             Deelnemer deelnemer1 = new Deelnemer("Jos", "Smith", 20);
             Deelnemer deelnemer2 = new Deelnemer("Luci", "De devil", 20);
