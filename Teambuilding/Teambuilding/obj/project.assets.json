@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grish\\source\\repos\\Teambuilding\\Teambuilding\\Teambuilding.csproj",
+      "projectUniqueName": "C:\\Users\\grish\\source\\repos\\grishian\\School\\Teambuilding\\Teambuilding\\Teambuilding.csproj",
       "projectName": "Teambuilding",
-      "projectPath": "C:\\Users\\grish\\source\\repos\\Teambuilding\\Teambuilding\\Teambuilding.csproj",
+      "projectPath": "C:\\Users\\grish\\source\\repos\\grishian\\School\\Teambuilding\\Teambuilding\\Teambuilding.csproj",
       "packagesPath": "C:\\Users\\grish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grish\\source\\repos\\Teambuilding\\Teambuilding\\obj\\",
+      "outputPath": "C:\\Users\\grish\\source\\repos\\grishian\\School\\Teambuilding\\Teambuilding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
