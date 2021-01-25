@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\bin\Debug\netcoreapp3.1\LetterOpslagen.exe
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\bin\Debug\netcoreapp3.1\LetterOpslagen.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\bin\Debug\netcoreapp3.1\LetterOpslagen.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\bin\Debug\netcoreapp3.1\LetterOpslagen.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\bin\Debug\netcoreapp3.1\LetterOpslagen.dll
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\bin\Debug\netcoreapp3.1\LetterOpslagen.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\obj\Debug\netcoreapp3.1\LetterOpslagen.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\obj\Debug\netcoreapp3.1\LetterOpslagen.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\obj\Debug\netcoreapp3.1\LetterOpslagen.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\obj\Debug\netcoreapp3.1\LetterOpslagen.dll
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\obj\Debug\netcoreapp3.1\LetterOpslagen.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\LetterOpslagen\obj\Debug\netcoreapp3.1\LetterOpslagen.genruntimeconfig.cache

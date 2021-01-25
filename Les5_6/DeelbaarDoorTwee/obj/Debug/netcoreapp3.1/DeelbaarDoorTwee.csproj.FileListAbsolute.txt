@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\bin\Debug\netcoreapp3.1\DeelbaarDoorTwee.exe
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\bin\Debug\netcoreapp3.1\DeelbaarDoorTwee.deps.json
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\bin\Debug\netcoreapp3.1\DeelbaarDoorTwee.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\bin\Debug\netcoreapp3.1\DeelbaarDoorTwee.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\bin\Debug\netcoreapp3.1\DeelbaarDoorTwee.dll
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\bin\Debug\netcoreapp3.1\DeelbaarDoorTwee.pdb
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.dll
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.pdb
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.genruntimeconfig.cache
+C:\Users\grish\source\repos\Les5_6\DeelbaarDoorTwee\obj\Debug\netcoreapp3.1\DeelbaarDoorTwee.csprojAssemblyReference.cache

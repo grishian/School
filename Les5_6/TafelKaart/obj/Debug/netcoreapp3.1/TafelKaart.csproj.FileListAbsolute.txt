@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\TafelKaart\bin\Debug\netcoreapp3.1\TafelKaart.exe
+C:\Users\grish\source\repos\Les5_6\TafelKaart\bin\Debug\netcoreapp3.1\TafelKaart.deps.json
+C:\Users\grish\source\repos\Les5_6\TafelKaart\bin\Debug\netcoreapp3.1\TafelKaart.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\TafelKaart\bin\Debug\netcoreapp3.1\TafelKaart.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\TafelKaart\bin\Debug\netcoreapp3.1\TafelKaart.dll
+C:\Users\grish\source\repos\Les5_6\TafelKaart\bin\Debug\netcoreapp3.1\TafelKaart.pdb
+C:\Users\grish\source\repos\Les5_6\TafelKaart\obj\Debug\netcoreapp3.1\TafelKaart.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\TafelKaart\obj\Debug\netcoreapp3.1\TafelKaart.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\TafelKaart\obj\Debug\netcoreapp3.1\TafelKaart.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\TafelKaart\obj\Debug\netcoreapp3.1\TafelKaart.dll
+C:\Users\grish\source\repos\Les5_6\TafelKaart\obj\Debug\netcoreapp3.1\TafelKaart.pdb
+C:\Users\grish\source\repos\Les5_6\TafelKaart\obj\Debug\netcoreapp3.1\TafelKaart.genruntimeconfig.cache

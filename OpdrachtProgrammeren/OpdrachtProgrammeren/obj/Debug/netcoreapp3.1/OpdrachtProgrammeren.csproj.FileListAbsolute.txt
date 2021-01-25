@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\bin\Debug\netcoreapp3.1\OpdrachtProgrammeren.exe
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\bin\Debug\netcoreapp3.1\OpdrachtProgrammeren.deps.json
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\bin\Debug\netcoreapp3.1\OpdrachtProgrammeren.runtimeconfig.json
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\bin\Debug\netcoreapp3.1\OpdrachtProgrammeren.runtimeconfig.dev.json
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\bin\Debug\netcoreapp3.1\OpdrachtProgrammeren.dll
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\bin\Debug\netcoreapp3.1\OpdrachtProgrammeren.pdb
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.AssemblyInfo.cs
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.dll
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.pdb
+C:\Users\grish\source\repos\OpdrachtProgrammeren\OpdrachtProgrammeren\obj\Debug\netcoreapp3.1\OpdrachtProgrammeren.genruntimeconfig.cache

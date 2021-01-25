@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\bin\Debug\netcoreapp3.1\Amitacheck.exe
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\bin\Debug\netcoreapp3.1\Amitacheck.deps.json
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\bin\Debug\netcoreapp3.1\Amitacheck.runtimeconfig.json
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\bin\Debug\netcoreapp3.1\Amitacheck.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\bin\Debug\netcoreapp3.1\Amitacheck.dll
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\bin\Debug\netcoreapp3.1\Amitacheck.pdb
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.AssemblyInfo.cs
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.dll
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.pdb
+C:\Users\grish\source\repos\Amitacheck\Amitacheck\obj\Debug\netcoreapp3.1\Amitacheck.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\MethodTest\bin\Debug\netcoreapp3.1\MethodTest.exe
+C:\Users\grish\source\repos\Les5_6\MethodTest\bin\Debug\netcoreapp3.1\MethodTest.deps.json
+C:\Users\grish\source\repos\Les5_6\MethodTest\bin\Debug\netcoreapp3.1\MethodTest.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\MethodTest\bin\Debug\netcoreapp3.1\MethodTest.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\MethodTest\bin\Debug\netcoreapp3.1\MethodTest.dll
+C:\Users\grish\source\repos\Les5_6\MethodTest\bin\Debug\netcoreapp3.1\MethodTest.pdb
+C:\Users\grish\source\repos\Les5_6\MethodTest\obj\Debug\netcoreapp3.1\MethodTest.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\MethodTest\obj\Debug\netcoreapp3.1\MethodTest.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\MethodTest\obj\Debug\netcoreapp3.1\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\MethodTest\obj\Debug\netcoreapp3.1\MethodTest.dll
+C:\Users\grish\source\repos\Les5_6\MethodTest\obj\Debug\netcoreapp3.1\MethodTest.pdb
+C:\Users\grish\source\repos\Les5_6\MethodTest\obj\Debug\netcoreapp3.1\MethodTest.genruntimeconfig.cache

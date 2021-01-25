@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\bin\Debug\netcoreapp3.1\ArrayOefeningen.exe
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\bin\Debug\netcoreapp3.1\ArrayOefeningen.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\bin\Debug\netcoreapp3.1\ArrayOefeningen.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\bin\Debug\netcoreapp3.1\ArrayOefeningen.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\bin\Debug\netcoreapp3.1\ArrayOefeningen.dll
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\bin\Debug\netcoreapp3.1\ArrayOefeningen.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.dll
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\ArrayOefeningen\obj\Debug\netcoreapp3.1\ArrayOefeningen.genruntimeconfig.cache

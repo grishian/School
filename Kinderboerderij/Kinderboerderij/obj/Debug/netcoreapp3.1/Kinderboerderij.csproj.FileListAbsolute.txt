@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\bin\Debug\netcoreapp3.1\Kinderboerderij.exe
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\bin\Debug\netcoreapp3.1\Kinderboerderij.deps.json
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\bin\Debug\netcoreapp3.1\Kinderboerderij.runtimeconfig.json
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\bin\Debug\netcoreapp3.1\Kinderboerderij.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\bin\Debug\netcoreapp3.1\Kinderboerderij.dll
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\bin\Debug\netcoreapp3.1\Kinderboerderij.pdb
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.AssemblyInfo.cs
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.dll
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.pdb
+C:\Users\grish\source\repos\Kinderboerderij\Kinderboerderij\obj\Debug\netcoreapp3.1\Kinderboerderij.genruntimeconfig.cache

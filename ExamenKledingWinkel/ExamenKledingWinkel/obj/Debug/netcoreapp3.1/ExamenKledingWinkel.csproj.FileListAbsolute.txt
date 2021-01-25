@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\bin\Debug\netcoreapp3.1\ExamenKledingWinkel.exe
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\bin\Debug\netcoreapp3.1\ExamenKledingWinkel.deps.json
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\bin\Debug\netcoreapp3.1\ExamenKledingWinkel.runtimeconfig.json
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\bin\Debug\netcoreapp3.1\ExamenKledingWinkel.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\bin\Debug\netcoreapp3.1\ExamenKledingWinkel.dll
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\bin\Debug\netcoreapp3.1\ExamenKledingWinkel.pdb
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.AssemblyInfo.cs
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.dll
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.pdb
+C:\Users\grish\source\repos\ExamenKledingWinkel\ExamenKledingWinkel\obj\Debug\netcoreapp3.1\ExamenKledingWinkel.genruntimeconfig.cache

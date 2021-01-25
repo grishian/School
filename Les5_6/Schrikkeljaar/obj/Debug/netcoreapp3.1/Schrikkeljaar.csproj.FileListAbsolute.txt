@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.exe
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.deps.json
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.dll
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.pdb
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.dll
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.pdb
+C:\Users\grish\source\repos\Les5_6\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.genruntimeconfig.cache

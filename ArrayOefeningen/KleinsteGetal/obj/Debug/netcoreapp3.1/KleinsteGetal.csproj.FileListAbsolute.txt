@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\bin\Debug\netcoreapp3.1\KleinsteGetal.exe
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\bin\Debug\netcoreapp3.1\KleinsteGetal.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\bin\Debug\netcoreapp3.1\KleinsteGetal.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\bin\Debug\netcoreapp3.1\KleinsteGetal.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\bin\Debug\netcoreapp3.1\KleinsteGetal.dll
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\bin\Debug\netcoreapp3.1\KleinsteGetal.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.dll
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\KleinsteGetal\obj\Debug\netcoreapp3.1\KleinsteGetal.genruntimeconfig.cache

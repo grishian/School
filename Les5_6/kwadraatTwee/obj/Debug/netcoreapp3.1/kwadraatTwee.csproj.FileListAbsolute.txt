@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\bin\Debug\netcoreapp3.1\kwadraatTwee.exe
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\bin\Debug\netcoreapp3.1\kwadraatTwee.deps.json
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\bin\Debug\netcoreapp3.1\kwadraatTwee.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\bin\Debug\netcoreapp3.1\kwadraatTwee.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\bin\Debug\netcoreapp3.1\kwadraatTwee.dll
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\bin\Debug\netcoreapp3.1\kwadraatTwee.pdb
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\obj\Debug\netcoreapp3.1\kwadraatTwee.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\obj\Debug\netcoreapp3.1\kwadraatTwee.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\obj\Debug\netcoreapp3.1\kwadraatTwee.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\obj\Debug\netcoreapp3.1\kwadraatTwee.dll
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\obj\Debug\netcoreapp3.1\kwadraatTwee.pdb
+C:\Users\grish\source\repos\Les5_6\kwadraatTwee\obj\Debug\netcoreapp3.1\kwadraatTwee.genruntimeconfig.cache

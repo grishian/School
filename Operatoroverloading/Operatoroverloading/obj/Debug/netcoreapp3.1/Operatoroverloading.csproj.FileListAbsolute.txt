@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\bin\Debug\netcoreapp3.1\Operatoroverloading.exe
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\bin\Debug\netcoreapp3.1\Operatoroverloading.deps.json
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\bin\Debug\netcoreapp3.1\Operatoroverloading.runtimeconfig.json
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\bin\Debug\netcoreapp3.1\Operatoroverloading.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\bin\Debug\netcoreapp3.1\Operatoroverloading.dll
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\bin\Debug\netcoreapp3.1\Operatoroverloading.pdb
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.AssemblyInfo.cs
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.dll
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.pdb
+C:\Users\grish\source\repos\Operatoroverloading\Operatoroverloading\obj\Debug\netcoreapp3.1\Operatoroverloading.genruntimeconfig.cache

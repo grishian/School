@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les7\Les7\bin\Debug\netcoreapp3.1\Les7.exe
+C:\Users\grish\source\repos\Les7\Les7\bin\Debug\netcoreapp3.1\Les7.deps.json
+C:\Users\grish\source\repos\Les7\Les7\bin\Debug\netcoreapp3.1\Les7.runtimeconfig.json
+C:\Users\grish\source\repos\Les7\Les7\bin\Debug\netcoreapp3.1\Les7.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les7\Les7\bin\Debug\netcoreapp3.1\Les7.dll
+C:\Users\grish\source\repos\Les7\Les7\bin\Debug\netcoreapp3.1\Les7.pdb
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.dll
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.pdb
+C:\Users\grish\source\repos\Les7\Les7\obj\Debug\netcoreapp3.1\Les7.genruntimeconfig.cache

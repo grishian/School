@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\bin\Debug\netcoreapp3.1\Spellen.exe
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\bin\Debug\netcoreapp3.1\Spellen.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\bin\Debug\netcoreapp3.1\Spellen.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\bin\Debug\netcoreapp3.1\Spellen.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\bin\Debug\netcoreapp3.1\Spellen.dll
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\bin\Debug\netcoreapp3.1\Spellen.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.dll
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.genruntimeconfig.cache
+C:\Users\grish\source\repos\ArrayOefeningen\Spellen\obj\Debug\netcoreapp3.1\Spellen.csprojAssemblyReference.cache

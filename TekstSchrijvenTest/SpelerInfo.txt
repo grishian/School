@@ -1,0 +1,24 @@
+spelerId: 0001
+Voornaam: Grishian
+Achternaam: Gracida
+Leeftijd: 23
+Geboortedatum: 05-november-1997
+
+spelerId: 0002
+Voornaam: Jorne
+Achternaam: Burkhard
+Leeftijd: 23
+Geboortedatum: 06-januari-1998
+
+spelerId: 0003
+Voornaam: Runy
+Achternaam: Gracida
+Leeftijd: 21
+Geboortedatum: 31-oktober-1999
+
+spelerId: 0004
+Voornaam: Petra
+Achternaam: Burkhard
+Leeftijd: 51
+Geboortedatum: 02-september-1969
+

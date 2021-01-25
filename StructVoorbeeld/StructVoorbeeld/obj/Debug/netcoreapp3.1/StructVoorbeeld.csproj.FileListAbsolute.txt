@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\bin\Debug\netcoreapp3.1\StructVoorbeeld.exe
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\bin\Debug\netcoreapp3.1\StructVoorbeeld.deps.json
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\bin\Debug\netcoreapp3.1\StructVoorbeeld.runtimeconfig.json
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\bin\Debug\netcoreapp3.1\StructVoorbeeld.runtimeconfig.dev.json
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\bin\Debug\netcoreapp3.1\StructVoorbeeld.dll
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\bin\Debug\netcoreapp3.1\StructVoorbeeld.pdb
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.AssemblyInfo.cs
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.dll
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.pdb
+C:\Users\grish\source\repos\StructVoorbeeld\StructVoorbeeld\obj\Debug\netcoreapp3.1\StructVoorbeeld.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\bin\Debug\netcoreapp3.1\KlasseVB.exe
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\bin\Debug\netcoreapp3.1\KlasseVB.deps.json
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\bin\Debug\netcoreapp3.1\KlasseVB.runtimeconfig.json
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\bin\Debug\netcoreapp3.1\KlasseVB.runtimeconfig.dev.json
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\bin\Debug\netcoreapp3.1\KlasseVB.dll
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\bin\Debug\netcoreapp3.1\KlasseVB.pdb
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\obj\Debug\netcoreapp3.1\KlasseVB.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\obj\Debug\netcoreapp3.1\KlasseVB.AssemblyInfo.cs
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\obj\Debug\netcoreapp3.1\KlasseVB.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\obj\Debug\netcoreapp3.1\KlasseVB.dll
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\obj\Debug\netcoreapp3.1\KlasseVB.pdb
+C:\Users\grish\source\repos\KlasseVB\KlasseVB\obj\Debug\netcoreapp3.1\KlasseVB.genruntimeconfig.cache

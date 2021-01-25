@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\bin\Debug\netcoreapp3.1\Punten.exe
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\bin\Debug\netcoreapp3.1\Punten.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\bin\Debug\netcoreapp3.1\Punten.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\bin\Debug\netcoreapp3.1\Punten.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\bin\Debug\netcoreapp3.1\Punten.dll
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\bin\Debug\netcoreapp3.1\Punten.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.dll
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.genruntimeconfig.cache
+C:\Users\grish\source\repos\ArrayOefeningen\Punten\obj\Debug\netcoreapp3.1\Punten.csprojAssemblyReference.cache

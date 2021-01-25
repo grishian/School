@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\bin\Debug\netcoreapp3.1\VeelvoudenVanTwee.exe
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\bin\Debug\netcoreapp3.1\VeelvoudenVanTwee.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\bin\Debug\netcoreapp3.1\VeelvoudenVanTwee.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\bin\Debug\netcoreapp3.1\VeelvoudenVanTwee.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\bin\Debug\netcoreapp3.1\VeelvoudenVanTwee.dll
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\bin\Debug\netcoreapp3.1\VeelvoudenVanTwee.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\obj\Debug\netcoreapp3.1\VeelvoudenVanTwee.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\obj\Debug\netcoreapp3.1\VeelvoudenVanTwee.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\obj\Debug\netcoreapp3.1\VeelvoudenVanTwee.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\obj\Debug\netcoreapp3.1\VeelvoudenVanTwee.dll
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\obj\Debug\netcoreapp3.1\VeelvoudenVanTwee.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\VeelvoudenVanTwee\obj\Debug\netcoreapp3.1\VeelvoudenVanTwee.genruntimeconfig.cache

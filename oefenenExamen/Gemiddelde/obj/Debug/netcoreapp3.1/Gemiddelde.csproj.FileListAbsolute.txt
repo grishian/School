@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.exe
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.deps.json
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.runtimeconfig.json
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.runtimeconfig.dev.json
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.dll
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.pdb
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.AssemblyInfo.cs
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.dll
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.pdb
+C:\Users\grish\source\repos\oefenenExamen\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.genruntimeconfig.cache

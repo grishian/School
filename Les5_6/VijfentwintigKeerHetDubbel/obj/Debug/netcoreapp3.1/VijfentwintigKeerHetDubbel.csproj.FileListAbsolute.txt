@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\bin\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.exe
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\bin\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.deps.json
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\bin\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\bin\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\bin\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.dll
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\bin\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.pdb
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\obj\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\obj\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\obj\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\obj\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.dll
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\obj\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.pdb
+C:\Users\grish\source\repos\Les5_6\VijfentwintigKeerHetDubbel\obj\Debug\netcoreapp3.1\VijfentwintigKeerHetDubbel.genruntimeconfig.cache

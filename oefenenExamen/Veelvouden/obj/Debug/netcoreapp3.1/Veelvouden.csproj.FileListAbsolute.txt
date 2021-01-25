@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\bin\Debug\netcoreapp3.1\Veelvouden.exe
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\bin\Debug\netcoreapp3.1\Veelvouden.deps.json
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\bin\Debug\netcoreapp3.1\Veelvouden.runtimeconfig.json
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\bin\Debug\netcoreapp3.1\Veelvouden.runtimeconfig.dev.json
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\bin\Debug\netcoreapp3.1\Veelvouden.dll
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\bin\Debug\netcoreapp3.1\Veelvouden.pdb
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.AssemblyInfo.cs
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.dll
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.pdb
+C:\Users\grish\source\repos\oefenenExamen\Veelvouden\obj\Debug\netcoreapp3.1\Veelvouden.genruntimeconfig.cache

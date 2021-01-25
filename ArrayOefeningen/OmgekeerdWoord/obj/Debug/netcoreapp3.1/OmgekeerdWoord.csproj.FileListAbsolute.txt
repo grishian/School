@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\bin\Debug\netcoreapp3.1\OmgekeerdWoord.exe
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\bin\Debug\netcoreapp3.1\OmgekeerdWoord.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\bin\Debug\netcoreapp3.1\OmgekeerdWoord.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\bin\Debug\netcoreapp3.1\OmgekeerdWoord.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\bin\Debug\netcoreapp3.1\OmgekeerdWoord.dll
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\bin\Debug\netcoreapp3.1\OmgekeerdWoord.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\obj\Debug\netcoreapp3.1\OmgekeerdWoord.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\obj\Debug\netcoreapp3.1\OmgekeerdWoord.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\obj\Debug\netcoreapp3.1\OmgekeerdWoord.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\obj\Debug\netcoreapp3.1\OmgekeerdWoord.dll
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\obj\Debug\netcoreapp3.1\OmgekeerdWoord.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\OmgekeerdWoord\obj\Debug\netcoreapp3.1\OmgekeerdWoord.genruntimeconfig.cache

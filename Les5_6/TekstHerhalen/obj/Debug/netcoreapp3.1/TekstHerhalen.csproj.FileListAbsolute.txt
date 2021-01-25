@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\bin\Debug\netcoreapp3.1\TekstHerhalen.exe
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\bin\Debug\netcoreapp3.1\TekstHerhalen.deps.json
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\bin\Debug\netcoreapp3.1\TekstHerhalen.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\bin\Debug\netcoreapp3.1\TekstHerhalen.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\bin\Debug\netcoreapp3.1\TekstHerhalen.dll
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\bin\Debug\netcoreapp3.1\TekstHerhalen.pdb
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.dll
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.pdb
+C:\Users\grish\source\repos\Les5_6\TekstHerhalen\obj\Debug\netcoreapp3.1\TekstHerhalen.genruntimeconfig.cache

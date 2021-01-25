@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\bin\Debug\netcoreapp3.1\TabelVeelvouden2.exe
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\bin\Debug\netcoreapp3.1\TabelVeelvouden2.deps.json
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\bin\Debug\netcoreapp3.1\TabelVeelvouden2.runtimeconfig.json
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\bin\Debug\netcoreapp3.1\TabelVeelvouden2.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\bin\Debug\netcoreapp3.1\TabelVeelvouden2.dll
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\bin\Debug\netcoreapp3.1\TabelVeelvouden2.pdb
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.dll
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.pdb
+C:\Users\grish\source\repos\Les7\TabelVeelvouden2\obj\Debug\netcoreapp3.1\TabelVeelvouden2.genruntimeconfig.cache

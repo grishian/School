@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\les7_8\gras\bin\Debug\netcoreapp3.1\gras.exe
+C:\Users\grish\source\repos\les7_8\gras\bin\Debug\netcoreapp3.1\gras.deps.json
+C:\Users\grish\source\repos\les7_8\gras\bin\Debug\netcoreapp3.1\gras.runtimeconfig.json
+C:\Users\grish\source\repos\les7_8\gras\bin\Debug\netcoreapp3.1\gras.runtimeconfig.dev.json
+C:\Users\grish\source\repos\les7_8\gras\bin\Debug\netcoreapp3.1\gras.dll
+C:\Users\grish\source\repos\les7_8\gras\bin\Debug\netcoreapp3.1\gras.pdb
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.AssemblyInfo.cs
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.dll
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.pdb
+C:\Users\grish\source\repos\les7_8\gras\obj\Debug\netcoreapp3.1\gras.genruntimeconfig.cache

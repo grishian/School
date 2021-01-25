@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\bin\Debug\netcoreapp3.1\CasinoLotte.exe
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\bin\Debug\netcoreapp3.1\CasinoLotte.deps.json
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\bin\Debug\netcoreapp3.1\CasinoLotte.runtimeconfig.json
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\bin\Debug\netcoreapp3.1\CasinoLotte.runtimeconfig.dev.json
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\bin\Debug\netcoreapp3.1\CasinoLotte.dll
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\bin\Debug\netcoreapp3.1\CasinoLotte.pdb
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.AssemblyInfo.cs
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.dll
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.pdb
+C:\Users\grish\source\repos\CasinoLotte\CasinoLotte\obj\Debug\netcoreapp3.1\CasinoLotte.genruntimeconfig.cache

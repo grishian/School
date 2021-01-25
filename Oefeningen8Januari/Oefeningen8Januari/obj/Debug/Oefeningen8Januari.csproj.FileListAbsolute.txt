@@ -1,0 +1,17 @@
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\bin\Debug\Oefeningen8Januari.exe.config
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\bin\Debug\Oefeningen8Januari.exe
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\bin\Debug\Oefeningen8Januari.pdb
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\MainWindow.g.cs
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\App.g.cs
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari_MarkupCompile.cache
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari_MarkupCompile.lref
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\MainWindow.baml
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.g.resources
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.Properties.Resources.resources
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.csproj.GenerateResource.cache
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.exe
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\Oefeningen8Januari.pdb
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\opdracht2.g.cs
+C:\Users\grish\source\repos\Oefeningen8Januari\Oefeningen8Januari\obj\Debug\opdracht2.baml

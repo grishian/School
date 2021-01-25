@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\bin\Debug\netcoreapp3.1\CasusZonnepaneel.exe
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\bin\Debug\netcoreapp3.1\CasusZonnepaneel.deps.json
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\bin\Debug\netcoreapp3.1\CasusZonnepaneel.runtimeconfig.json
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\bin\Debug\netcoreapp3.1\CasusZonnepaneel.runtimeconfig.dev.json
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\bin\Debug\netcoreapp3.1\CasusZonnepaneel.dll
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\bin\Debug\netcoreapp3.1\CasusZonnepaneel.pdb
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.AssemblyInfo.cs
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.dll
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.pdb
+C:\Users\grish\source\repos\les7_8\CasusZonnepaneel\obj\Debug\netcoreapp3.1\CasusZonnepaneel.genruntimeconfig.cache

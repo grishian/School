@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\bin\Debug\netcoreapp3.1\VeelvoudenAcht.exe
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\bin\Debug\netcoreapp3.1\VeelvoudenAcht.deps.json
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\bin\Debug\netcoreapp3.1\VeelvoudenAcht.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\bin\Debug\netcoreapp3.1\VeelvoudenAcht.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\bin\Debug\netcoreapp3.1\VeelvoudenAcht.dll
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\bin\Debug\netcoreapp3.1\VeelvoudenAcht.pdb
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\obj\Debug\netcoreapp3.1\VeelvoudenAcht.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\obj\Debug\netcoreapp3.1\VeelvoudenAcht.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\obj\Debug\netcoreapp3.1\VeelvoudenAcht.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\obj\Debug\netcoreapp3.1\VeelvoudenAcht.dll
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\obj\Debug\netcoreapp3.1\VeelvoudenAcht.pdb
+C:\Users\grish\source\repos\Les5_6\VeelvoudenAcht\obj\Debug\netcoreapp3.1\VeelvoudenAcht.genruntimeconfig.cache

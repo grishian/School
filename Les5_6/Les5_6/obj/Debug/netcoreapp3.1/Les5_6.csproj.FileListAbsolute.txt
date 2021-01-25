@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les5_6\Les5_6\bin\Debug\netcoreapp3.1\Les5_6.exe
+C:\Users\grish\source\repos\Les5_6\Les5_6\bin\Debug\netcoreapp3.1\Les5_6.deps.json
+C:\Users\grish\source\repos\Les5_6\Les5_6\bin\Debug\netcoreapp3.1\Les5_6.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\Les5_6\bin\Debug\netcoreapp3.1\Les5_6.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\Les5_6\bin\Debug\netcoreapp3.1\Les5_6.dll
+C:\Users\grish\source\repos\Les5_6\Les5_6\bin\Debug\netcoreapp3.1\Les5_6.pdb
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.dll
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.pdb
+C:\Users\grish\source\repos\Les5_6\Les5_6\obj\Debug\netcoreapp3.1\Les5_6.genruntimeconfig.cache

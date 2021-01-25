@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\oefenenExamen\Array1\bin\Debug\netcoreapp3.1\Array1.exe
+C:\Users\grish\source\repos\oefenenExamen\Array1\bin\Debug\netcoreapp3.1\Array1.deps.json
+C:\Users\grish\source\repos\oefenenExamen\Array1\bin\Debug\netcoreapp3.1\Array1.runtimeconfig.json
+C:\Users\grish\source\repos\oefenenExamen\Array1\bin\Debug\netcoreapp3.1\Array1.runtimeconfig.dev.json
+C:\Users\grish\source\repos\oefenenExamen\Array1\bin\Debug\netcoreapp3.1\Array1.dll
+C:\Users\grish\source\repos\oefenenExamen\Array1\bin\Debug\netcoreapp3.1\Array1.pdb
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.AssemblyInfo.cs
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.dll
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.pdb
+C:\Users\grish\source\repos\oefenenExamen\Array1\obj\Debug\netcoreapp3.1\Array1.genruntimeconfig.cache

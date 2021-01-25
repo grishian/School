@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\bin\Debug\netcoreapp3.1\TekstSchrijvenTest.exe
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\bin\Debug\netcoreapp3.1\TekstSchrijvenTest.deps.json
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\bin\Debug\netcoreapp3.1\TekstSchrijvenTest.runtimeconfig.json
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\bin\Debug\netcoreapp3.1\TekstSchrijvenTest.runtimeconfig.dev.json
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\bin\Debug\netcoreapp3.1\TekstSchrijvenTest.dll
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\bin\Debug\netcoreapp3.1\TekstSchrijvenTest.pdb
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.AssemblyInfo.cs
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.dll
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.pdb
+C:\Users\grish\source\repos\TekstSchrijvenTest\TekstSchrijvenTest\obj\Debug\netcoreapp3.1\TekstSchrijvenTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\bin\Debug\netcoreapp3.1\TextbasedGame3.exe
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\bin\Debug\netcoreapp3.1\TextbasedGame3.deps.json
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\bin\Debug\netcoreapp3.1\TextbasedGame3.runtimeconfig.json
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\bin\Debug\netcoreapp3.1\TextbasedGame3.runtimeconfig.dev.json
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\bin\Debug\netcoreapp3.1\TextbasedGame3.dll
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\bin\Debug\netcoreapp3.1\TextbasedGame3.pdb
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.AssemblyInfo.cs
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.dll
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.pdb
+C:\Users\grish\source\repos\TextbasedGame3\TextbasedGame3\obj\Debug\netcoreapp3.1\TextbasedGame3.genruntimeconfig.cache

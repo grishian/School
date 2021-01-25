@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\les7_8\ramenWasser\bin\Debug\netcoreapp3.1\ramenWasser.exe
+C:\Users\grish\source\repos\les7_8\ramenWasser\bin\Debug\netcoreapp3.1\ramenWasser.deps.json
+C:\Users\grish\source\repos\les7_8\ramenWasser\bin\Debug\netcoreapp3.1\ramenWasser.runtimeconfig.json
+C:\Users\grish\source\repos\les7_8\ramenWasser\bin\Debug\netcoreapp3.1\ramenWasser.runtimeconfig.dev.json
+C:\Users\grish\source\repos\les7_8\ramenWasser\bin\Debug\netcoreapp3.1\ramenWasser.dll
+C:\Users\grish\source\repos\les7_8\ramenWasser\bin\Debug\netcoreapp3.1\ramenWasser.pdb
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.AssemblyInfo.cs
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.dll
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.pdb
+C:\Users\grish\source\repos\les7_8\ramenWasser\obj\Debug\netcoreapp3.1\ramenWasser.genruntimeconfig.cache

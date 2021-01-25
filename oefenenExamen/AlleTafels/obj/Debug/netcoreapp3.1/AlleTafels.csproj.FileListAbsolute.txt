@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\bin\Debug\netcoreapp3.1\AlleTafels.exe
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\bin\Debug\netcoreapp3.1\AlleTafels.deps.json
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\bin\Debug\netcoreapp3.1\AlleTafels.runtimeconfig.json
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\bin\Debug\netcoreapp3.1\AlleTafels.runtimeconfig.dev.json
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\bin\Debug\netcoreapp3.1\AlleTafels.dll
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\bin\Debug\netcoreapp3.1\AlleTafels.pdb
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.AssemblyInfo.cs
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.dll
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.pdb
+C:\Users\grish\source\repos\oefenenExamen\AlleTafels\obj\Debug\netcoreapp3.1\AlleTafels.genruntimeconfig.cache

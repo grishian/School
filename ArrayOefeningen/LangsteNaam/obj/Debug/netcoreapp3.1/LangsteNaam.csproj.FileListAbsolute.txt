@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\bin\Debug\netcoreapp3.1\LangsteNaam.exe
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\bin\Debug\netcoreapp3.1\LangsteNaam.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\bin\Debug\netcoreapp3.1\LangsteNaam.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\bin\Debug\netcoreapp3.1\LangsteNaam.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\bin\Debug\netcoreapp3.1\LangsteNaam.dll
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\bin\Debug\netcoreapp3.1\LangsteNaam.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.dll
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\LangsteNaam\obj\Debug\netcoreapp3.1\LangsteNaam.genruntimeconfig.cache

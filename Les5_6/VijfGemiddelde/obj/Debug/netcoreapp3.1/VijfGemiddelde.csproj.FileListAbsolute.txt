@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\bin\Debug\netcoreapp3.1\VijfGemiddelde.exe
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\bin\Debug\netcoreapp3.1\VijfGemiddelde.deps.json
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\bin\Debug\netcoreapp3.1\VijfGemiddelde.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\bin\Debug\netcoreapp3.1\VijfGemiddelde.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\bin\Debug\netcoreapp3.1\VijfGemiddelde.dll
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\bin\Debug\netcoreapp3.1\VijfGemiddelde.pdb
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\obj\Debug\netcoreapp3.1\VijfGemiddelde.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\obj\Debug\netcoreapp3.1\VijfGemiddelde.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\obj\Debug\netcoreapp3.1\VijfGemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\obj\Debug\netcoreapp3.1\VijfGemiddelde.dll
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\obj\Debug\netcoreapp3.1\VijfGemiddelde.pdb
+C:\Users\grish\source\repos\Les5_6\VijfGemiddelde\obj\Debug\netcoreapp3.1\VijfGemiddelde.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\bin\Debug\netcoreapp3.1\TicTacToeTest.exe
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\bin\Debug\netcoreapp3.1\TicTacToeTest.deps.json
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\bin\Debug\netcoreapp3.1\TicTacToeTest.runtimeconfig.json
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\bin\Debug\netcoreapp3.1\TicTacToeTest.runtimeconfig.dev.json
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\bin\Debug\netcoreapp3.1\TicTacToeTest.dll
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\bin\Debug\netcoreapp3.1\TicTacToeTest.pdb
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.Form1.resources
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.csproj.GenerateResource.cache
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.AssemblyInfo.cs
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.dll
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.pdb
+C:\Users\grish\source\repos\TicTacToeTest\TicTacToeTest\obj\Debug\netcoreapp3.1\TicTacToeTest.genruntimeconfig.cache

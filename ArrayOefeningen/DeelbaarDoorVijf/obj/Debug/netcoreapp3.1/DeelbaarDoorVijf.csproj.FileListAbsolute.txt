@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\bin\Debug\netcoreapp3.1\DeelbaarDoorVijf.exe
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\bin\Debug\netcoreapp3.1\DeelbaarDoorVijf.deps.json
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\bin\Debug\netcoreapp3.1\DeelbaarDoorVijf.runtimeconfig.json
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\bin\Debug\netcoreapp3.1\DeelbaarDoorVijf.runtimeconfig.dev.json
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\bin\Debug\netcoreapp3.1\DeelbaarDoorVijf.dll
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\bin\Debug\netcoreapp3.1\DeelbaarDoorVijf.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.AssemblyInfo.cs
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.dll
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.pdb
+C:\Users\grish\source\repos\ArrayOefeningen\DeelbaarDoorVijf\obj\Debug\netcoreapp3.1\DeelbaarDoorVijf.genruntimeconfig.cache

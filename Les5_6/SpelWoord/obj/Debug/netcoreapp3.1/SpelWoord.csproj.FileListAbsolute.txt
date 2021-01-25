@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\SpelWoord\bin\Debug\netcoreapp3.1\SpelWoord.exe
+C:\Users\grish\source\repos\Les5_6\SpelWoord\bin\Debug\netcoreapp3.1\SpelWoord.deps.json
+C:\Users\grish\source\repos\Les5_6\SpelWoord\bin\Debug\netcoreapp3.1\SpelWoord.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\SpelWoord\bin\Debug\netcoreapp3.1\SpelWoord.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\SpelWoord\bin\Debug\netcoreapp3.1\SpelWoord.dll
+C:\Users\grish\source\repos\Les5_6\SpelWoord\bin\Debug\netcoreapp3.1\SpelWoord.pdb
+C:\Users\grish\source\repos\Les5_6\SpelWoord\obj\Debug\netcoreapp3.1\SpelWoord.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\SpelWoord\obj\Debug\netcoreapp3.1\SpelWoord.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\SpelWoord\obj\Debug\netcoreapp3.1\SpelWoord.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\SpelWoord\obj\Debug\netcoreapp3.1\SpelWoord.dll
+C:\Users\grish\source\repos\Les5_6\SpelWoord\obj\Debug\netcoreapp3.1\SpelWoord.pdb
+C:\Users\grish\source\repos\Les5_6\SpelWoord\obj\Debug\netcoreapp3.1\SpelWoord.genruntimeconfig.cache

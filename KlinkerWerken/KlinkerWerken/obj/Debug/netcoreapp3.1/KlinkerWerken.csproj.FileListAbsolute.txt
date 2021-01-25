@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\bin\Debug\netcoreapp3.1\KlinkerWerken.exe
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\bin\Debug\netcoreapp3.1\KlinkerWerken.deps.json
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\bin\Debug\netcoreapp3.1\KlinkerWerken.runtimeconfig.json
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\bin\Debug\netcoreapp3.1\KlinkerWerken.runtimeconfig.dev.json
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\bin\Debug\netcoreapp3.1\KlinkerWerken.dll
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\bin\Debug\netcoreapp3.1\KlinkerWerken.pdb
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.AssemblyInfo.cs
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.dll
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.pdb
+C:\Users\grish\source\repos\KlinkerWerken\KlinkerWerken\obj\Debug\netcoreapp3.1\KlinkerWerken.genruntimeconfig.cache

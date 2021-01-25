@@ -1,0 +1,12 @@
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\bin\Debug\netcoreapp3.1\MachtenVanDrie.exe
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\bin\Debug\netcoreapp3.1\MachtenVanDrie.deps.json
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\bin\Debug\netcoreapp3.1\MachtenVanDrie.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\bin\Debug\netcoreapp3.1\MachtenVanDrie.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\bin\Debug\netcoreapp3.1\MachtenVanDrie.dll
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\bin\Debug\netcoreapp3.1\MachtenVanDrie.pdb
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\obj\Debug\netcoreapp3.1\MachtenVanDrie.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\obj\Debug\netcoreapp3.1\MachtenVanDrie.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\obj\Debug\netcoreapp3.1\MachtenVanDrie.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\obj\Debug\netcoreapp3.1\MachtenVanDrie.dll
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\obj\Debug\netcoreapp3.1\MachtenVanDrie.pdb
+C:\Users\grish\source\repos\Les5_6\MachtenVanDrie\obj\Debug\netcoreapp3.1\MachtenVanDrie.genruntimeconfig.cache

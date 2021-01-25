@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\bin\Debug\netcoreapp3.1\Teambuilding.exe
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\bin\Debug\netcoreapp3.1\Teambuilding.deps.json
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\bin\Debug\netcoreapp3.1\Teambuilding.runtimeconfig.json
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\bin\Debug\netcoreapp3.1\Teambuilding.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\bin\Debug\netcoreapp3.1\Teambuilding.dll
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\bin\Debug\netcoreapp3.1\Teambuilding.pdb
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.AssemblyInfo.cs
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.dll
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.pdb
+C:\Users\grish\source\repos\Teambuilding\Teambuilding\obj\Debug\netcoreapp3.1\Teambuilding.genruntimeconfig.cache

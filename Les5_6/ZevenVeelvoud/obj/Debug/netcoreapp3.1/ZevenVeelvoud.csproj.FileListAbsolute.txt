@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\bin\Debug\netcoreapp3.1\ZevenVeelvoud.exe
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\bin\Debug\netcoreapp3.1\ZevenVeelvoud.deps.json
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\bin\Debug\netcoreapp3.1\ZevenVeelvoud.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\bin\Debug\netcoreapp3.1\ZevenVeelvoud.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\bin\Debug\netcoreapp3.1\ZevenVeelvoud.dll
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\bin\Debug\netcoreapp3.1\ZevenVeelvoud.pdb
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.dll
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.pdb
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.genruntimeconfig.cache
+C:\Users\grish\source\repos\Les5_6\ZevenVeelvoud\obj\Debug\netcoreapp3.1\ZevenVeelvoud.csprojAssemblyReference.cache

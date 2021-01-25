@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ZevenVeelvoud/1.0.0": {
+        "runtime": {
+          "ZevenVeelvoud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZevenVeelvoud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

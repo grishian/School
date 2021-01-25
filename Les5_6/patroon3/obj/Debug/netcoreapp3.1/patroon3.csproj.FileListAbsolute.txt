@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les5_6\patroon3\bin\Debug\netcoreapp3.1\patroon3.exe
+C:\Users\grish\source\repos\Les5_6\patroon3\bin\Debug\netcoreapp3.1\patroon3.deps.json
+C:\Users\grish\source\repos\Les5_6\patroon3\bin\Debug\netcoreapp3.1\patroon3.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\patroon3\bin\Debug\netcoreapp3.1\patroon3.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\patroon3\bin\Debug\netcoreapp3.1\patroon3.dll
+C:\Users\grish\source\repos\Les5_6\patroon3\bin\Debug\netcoreapp3.1\patroon3.pdb
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.dll
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.pdb
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.genruntimeconfig.cache
+C:\Users\grish\source\repos\Les5_6\patroon3\obj\Debug\netcoreapp3.1\patroon3.csprojAssemblyReference.cache

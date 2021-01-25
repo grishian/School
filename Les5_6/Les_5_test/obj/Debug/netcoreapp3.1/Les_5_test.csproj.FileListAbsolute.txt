@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Les5_6\Les_5_test\bin\Debug\netcoreapp3.1\Les_5_test.exe
+C:\Users\grish\source\repos\Les5_6\Les_5_test\bin\Debug\netcoreapp3.1\Les_5_test.deps.json
+C:\Users\grish\source\repos\Les5_6\Les_5_test\bin\Debug\netcoreapp3.1\Les_5_test.runtimeconfig.json
+C:\Users\grish\source\repos\Les5_6\Les_5_test\bin\Debug\netcoreapp3.1\Les_5_test.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Les5_6\Les_5_test\bin\Debug\netcoreapp3.1\Les_5_test.dll
+C:\Users\grish\source\repos\Les5_6\Les_5_test\bin\Debug\netcoreapp3.1\Les_5_test.pdb
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.AssemblyInfo.cs
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.dll
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.pdb
+C:\Users\grish\source\repos\Les5_6\Les_5_test\obj\Debug\netcoreapp3.1\Les_5_test.genruntimeconfig.cache

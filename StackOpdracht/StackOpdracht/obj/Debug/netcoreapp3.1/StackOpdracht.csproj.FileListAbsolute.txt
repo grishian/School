@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\bin\Debug\netcoreapp3.1\StackOpdracht.exe
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\bin\Debug\netcoreapp3.1\StackOpdracht.deps.json
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\bin\Debug\netcoreapp3.1\StackOpdracht.runtimeconfig.json
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\bin\Debug\netcoreapp3.1\StackOpdracht.runtimeconfig.dev.json
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\bin\Debug\netcoreapp3.1\StackOpdracht.dll
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\bin\Debug\netcoreapp3.1\StackOpdracht.pdb
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.AssemblyInfo.cs
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.dll
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.pdb
+C:\Users\grish\source\repos\StackOpdracht\StackOpdracht\obj\Debug\netcoreapp3.1\StackOpdracht.genruntimeconfig.cache

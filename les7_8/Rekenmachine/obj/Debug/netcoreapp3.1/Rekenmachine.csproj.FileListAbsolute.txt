@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\les7_8\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.exe
+C:\Users\grish\source\repos\les7_8\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.deps.json
+C:\Users\grish\source\repos\les7_8\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.runtimeconfig.json
+C:\Users\grish\source\repos\les7_8\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.runtimeconfig.dev.json
+C:\Users\grish\source\repos\les7_8\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.dll
+C:\Users\grish\source\repos\les7_8\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.pdb
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.AssemblyInfo.cs
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.dll
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.pdb
+C:\Users\grish\source\repos\les7_8\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.genruntimeconfig.cache

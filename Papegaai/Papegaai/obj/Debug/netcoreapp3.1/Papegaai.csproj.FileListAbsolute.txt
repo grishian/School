@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\Papegaai\Papegaai\bin\Debug\netcoreapp3.1\Papegaai.exe
+C:\Users\grish\source\repos\Papegaai\Papegaai\bin\Debug\netcoreapp3.1\Papegaai.deps.json
+C:\Users\grish\source\repos\Papegaai\Papegaai\bin\Debug\netcoreapp3.1\Papegaai.runtimeconfig.json
+C:\Users\grish\source\repos\Papegaai\Papegaai\bin\Debug\netcoreapp3.1\Papegaai.runtimeconfig.dev.json
+C:\Users\grish\source\repos\Papegaai\Papegaai\bin\Debug\netcoreapp3.1\Papegaai.dll
+C:\Users\grish\source\repos\Papegaai\Papegaai\bin\Debug\netcoreapp3.1\Papegaai.pdb
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.AssemblyInfo.cs
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.dll
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.pdb
+C:\Users\grish\source\repos\Papegaai\Papegaai\obj\Debug\netcoreapp3.1\Papegaai.genruntimeconfig.cache

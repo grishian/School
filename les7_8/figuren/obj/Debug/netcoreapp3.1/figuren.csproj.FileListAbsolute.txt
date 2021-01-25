@@ -1,0 +1,13 @@
+C:\Users\grish\source\repos\les7_8\figuren\bin\Debug\netcoreapp3.1\figuren.exe
+C:\Users\grish\source\repos\les7_8\figuren\bin\Debug\netcoreapp3.1\figuren.deps.json
+C:\Users\grish\source\repos\les7_8\figuren\bin\Debug\netcoreapp3.1\figuren.runtimeconfig.json
+C:\Users\grish\source\repos\les7_8\figuren\bin\Debug\netcoreapp3.1\figuren.runtimeconfig.dev.json
+C:\Users\grish\source\repos\les7_8\figuren\bin\Debug\netcoreapp3.1\figuren.dll
+C:\Users\grish\source\repos\les7_8\figuren\bin\Debug\netcoreapp3.1\figuren.pdb
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.csprojAssemblyReference.cache
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.AssemblyInfoInputs.cache
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.AssemblyInfo.cs
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.csproj.CoreCompileInputs.cache
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.dll
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.pdb
+C:\Users\grish\source\repos\les7_8\figuren\obj\Debug\netcoreapp3.1\figuren.genruntimeconfig.cache
